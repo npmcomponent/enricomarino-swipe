@@ -1,0 +1,8 @@
+{
+  "name": "enricomarino-swipe",
+  "description": "Swipe component with touch support",
+  "dependencies": {
+    "apily-emitter": "git://github.com/npmcomponent/apily-emitter.git"
+  },
+  "license": "MIT"
+}
